@@ -13,10 +13,6 @@ organizations:
 - name: Bern University Hospital for Mental Health
   url: https://www.upd.ch/
 
-- name: Bern University of Applied Sciences
-  url: https://www.bfh.ch/en/
-
-
 # Short bio (displayed in user profile at end of posts)
 bio: I am a sociologist and mental health nurse, based in Bern, Switzerland. My research interests are psychiatric rehabilitation, psychiatric epidemiology, mental health nursing, aggression management in health care, Covid-19 and mental health.
 
@@ -29,7 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - Master of Science in Nursing - Research Methodology and Thesis Supervision (since 2011)
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
