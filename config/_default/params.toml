@@ -97,10 +97,10 @@ address = {street = "Murtenstrasse 46", city = "Bern", region = "", postcode = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "46.95015", longitude = "7.42527"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter building to floor 2/Sie finden mich im 2. OG."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -140,7 +140,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-us"
+address_format = "de"
 
 ############################
 ## Advanced
