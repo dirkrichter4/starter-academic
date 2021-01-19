@@ -44,7 +44,7 @@ experience:
     description: |2-
         Empirical research, Supervision of Master's theses 
     
-    - title: Professor
+  - title: Professor
     company: Bern University of Applied Sciences
     company_url: ''
     location: Bern, Switzerland
@@ -53,7 +53,7 @@ experience:
     description: |2-
         Nursing research, Teaching 'Advanced Research Methods' in the Master of Science in Nursing program
     
-    - title: Senior Researcher and Quality Manager
+  - title: Senior Researcher and Quality Manager
     company: LWL Public Mental Health Hospital
     company_url: ''
     location: Muenster, Germany
