@@ -41,7 +41,7 @@ experience:
     location: Bern, Switzerland
     date_start: '2015-08-01'
     date_end: ''
-    description: Empirical research, Supervision of Master's theses
+    description: Empirical research, Supervision of Master's theses |2-
     
     - title: Professor
     company: Bern University of Applied Sciences
@@ -49,7 +49,7 @@ experience:
     location: Bern, Switzerland
     date_start: '2009-01-01'
     date_end: '2015-07-31'
-    description: Nursing research, Teaching 'Advanced Research Methods' in the Master of Science in Nursing program
+    description: Nursing research, Teaching 'Advanced Research Methods' in the Master of Science in Nursing program |2-
     
     - title: Senior Researcher and Quality Manager
     company: LWL Public Mental Health Hospital
@@ -57,5 +57,5 @@ experience:
     location: Muenster, Germany
     date_start: '1994-08-01'
     date_end: '2008-12-31'
-    description: Research in Social Psychiatry, Quality management
+    description: Research in Social Psychiatry, Quality management |2-
 ---
