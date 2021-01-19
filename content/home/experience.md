@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Head of Research and Development
+    company: Bern University Hospital for Mental Health, Center for Psychiatric Rehabilitation
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Bern, Switzerland
+    date_start: '2015-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Empirical research
+        * Development of rehabilitation interventions
+        * Development of theoretical approaches in mental health care
         
-  - title: Professor
-    company: University X
+  - title: Senior Nursing Researcher
+    company: Bern University of Applied Sciences
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Bern, Switzerland
+    date_start: '2015-08-01'
+    date_end: ''
+    description: Empirical research, Supervision of Master's theses
 ---
