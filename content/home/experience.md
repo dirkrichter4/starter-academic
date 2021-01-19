@@ -60,5 +60,15 @@ experience:
     date_start: '1994-08-01'
     date_end: '2008-12-31'
     description: |2-
-        Research in Social Psychiatry, Quality management 
+        Research in Social Psychiatry, Quality management
+   
+  - title: Staff Nurse
+    company: LWL Public Mental Health Hospital
+    company_url: ''
+    location: Herten, Germany
+    date_start: '1986-10-01'
+    date_end: '1988-09-30'
+    description: |2-
+        Staff nurse on a drug and alcohol detoxification unit
+        
 ---
