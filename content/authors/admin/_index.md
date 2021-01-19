@@ -1,6 +1,6 @@
 ---
 # Display name
-title: D. Richter
+title: Dirk Richter
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Post-doctoral thesis/Habilitation/PhD
+    institution: University of Muenster, Germany
+    year: 2003
+  - course: Dr. phil.
+    institution: University of Muenster, Germany
+    year: 1994
+  - course: Nursing diploma
+    institution: Westphalian Public Mental Hospital Lengerich, Germany
+    year: 1986
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
