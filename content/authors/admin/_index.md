@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dirk Richter
+title: D. Richter
 
 # Is this the primary user of the site?
 superuser: true
