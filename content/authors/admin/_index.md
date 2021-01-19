@@ -21,6 +21,7 @@ interests:
 - Epidemiology
 - Meta-analysis
 - Research methodology
+- Rehabilitation
 
 # Education to show in About widget
 education:
