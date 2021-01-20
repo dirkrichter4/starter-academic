@@ -14,7 +14,7 @@ organizations:
   url: https://www.upd.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a sociologist and mental health nurse, based in Bern, Switzerland. My research interests are psychiatric rehabilitation, psychiatric epidemiology, mental health nursing, aggression management in health care, Covid-19 and mental health.
+# bio: I am a sociologist and mental health nurse, based in Bern, Switzerland. My research interests are psychiatric rehabilitation, psychiatric epidemiology, mental health nursing, aggression management in health care, Covid-19 and mental health.
 
 # Interests to show in About widget
 interests:
@@ -22,6 +22,7 @@ interests:
 - Meta-analysis
 - Research methodology
 - Rehabilitation
+- Covid-19 and mental health
 
 # Education to show in About widget
 education:
