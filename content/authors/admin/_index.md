@@ -72,5 +72,3 @@ email: ""
 highlight_name: false
 ---
 Dirk Richter is a sociologist, mental health nurse and researcher based at Bern, Switzerland.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
