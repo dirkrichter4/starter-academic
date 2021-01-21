@@ -7,7 +7,7 @@ widget: books
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 10
 
 # Section title
 title: Books
@@ -24,5 +24,4 @@ design:
     color: 'navy'
     text_color_light: true
 ---
-
-Add any content to the body of the section here.
+New book out now.
