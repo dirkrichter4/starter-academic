@@ -10,14 +10,13 @@
 
 [[main]]
   name = "Academic Publications"
-  url = "#posts"
+  url = "#academic-publications"
   weight = 20
 
 [[main]]
   name = "Books"
-  url = "#projects"
+  url = "#books"
   weight = 30
-
 
 [[main]]
   name = "Contact"
